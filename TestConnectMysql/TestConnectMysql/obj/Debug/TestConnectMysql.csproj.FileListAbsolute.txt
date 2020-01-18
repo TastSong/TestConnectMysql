@@ -1,0 +1,7 @@
+C:\Users\TastS\Desktop\TestConnectMysql\TestConnectMysql\bin\Debug\TestConnectMysql.exe.config
+C:\Users\TastS\Desktop\TestConnectMysql\TestConnectMysql\bin\Debug\TestConnectMysql.exe
+C:\Users\TastS\Desktop\TestConnectMysql\TestConnectMysql\bin\Debug\TestConnectMysql.pdb
+C:\Users\TastS\Desktop\TestConnectMysql\TestConnectMysql\bin\Debug\MySql.Data.dll
+C:\Users\TastS\Desktop\TestConnectMysql\TestConnectMysql\obj\Debug\TestConnectMysql.csprojResolveAssemblyReference.cache
+C:\Users\TastS\Desktop\TestConnectMysql\TestConnectMysql\obj\Debug\TestConnectMysql.exe
+C:\Users\TastS\Desktop\TestConnectMysql\TestConnectMysql\obj\Debug\TestConnectMysql.pdb
