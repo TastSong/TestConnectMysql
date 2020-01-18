@@ -31,9 +31,11 @@
 
 因为在`MySQL8`以后的版本字符串默认编码不是`UTF8`,但是VS2013用的是`UTF8`，而且更改MySQL的
 
-默认编码太麻烦，所以我重新安装了`5.6.4.7`版本的`MySQL`，此处给出安装包。
+默认编码太麻烦，所以我重新安装了`5.6.4.7`版本的`MySQL`，[此处](https://github.com/TastSong/TestConnectMysql/blob/master/mysql-installer-web-community-5.6.47.0.msi)给出安装包。
 
+### 五、操作语句执行方法
 
+在执行查找之后，如果不关闭数据库，就执行增加命令会产生异常，所以每次执行`增删改查`后就关闭一下数据库
 
 
 
